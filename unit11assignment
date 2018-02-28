@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>This is the Title</title>
+  </head>
+  <body>
+  <script src="script.js"></script>
+  </body>
+</html>
+
+Run setTimeout
+var threeSecondTimeout = setTimeout (announce, 3000)
+};
+
+(var Fizz =3 , 1 <i<100)
+(var Buzz= 5; 1<i<100)
+(var Fizzbuzz = 3x5; 1<i<100)
